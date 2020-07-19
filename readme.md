@@ -11,7 +11,7 @@
 
 ---
 
-🌟 **[Tailwind UI is hiring](https://jobs.tailwindui.com/full-stack-developer)** 🌟 - Help define and build the future of their developer tools and products.
+🌟 **[Tailwind Blog](https://blog.tailwindcss.com/)** 🌟 - Checkout the new blog to read all the latest Tailwind CSS news, straight from the team.
 
 ---
 
@@ -30,6 +30,7 @@
 
 ## Plugins
 
+- [Typography (Official)](https://github.com/tailwindcss/typography) - Adds `prose` class for beautiful typographic defaults.
 - [Custom Forms (Official)](https://github.com/tailwindcss/custom-forms) - Adds better default styles to form elements.
 - [Theming (Dark/Light)](https://github.com/hawezo/tailwindcss-theming) - Adds powerful theming capabilities with CSS variables and `prefers-color-scheme`.
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Adds `text-indent` utilities.
@@ -80,6 +81,7 @@
 - [Bidirectional](https://github.com/20lives/tailwindcss-rtl) - Adds utilities for creating multilingual bidirectional layouts.
 - [Fluid Utilities](https://github.com/soberwp/tailwindcss-fl) - Generate `fl:` utilities by leveraging existing config.
 - [Multi Theme](https://tailwindcss-multi-theme.now.sh/) - Creates multiple themes based on a single `theme` property.
+- [Background svg](https://github.com/AndersNielsen85/tailwindcss-bg-svg) - Inject svgs as background images with color variants.
 
 > 🛑 - _The functionalities these plugins below offer have been fully or partially implemented in the latest Tailwind CSS versions._
 
@@ -160,6 +162,7 @@
 - 💼 [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Adds Tailwind CSS module as PostCSS plugin and sets up PurgeCSS in production for PreactJS CLI Projects.
 - 💼🔧 [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - Babel macro that transforms Tailwind CSS classes into objects for CSS-in-JS libraries.
 - 💼🔧 [twin.macro](https://github.com/ben-rogerson/twin.macro) - Use Tailwind classes within any CSS-in-JS library.
+- 🌍🔧 [Tailwindow Color Shades Generator](https://color.tailwindow.com) - Generate your own shades color with customizable interval and range color.
 
 ### Starters, Templates & Themes
 
@@ -266,7 +269,7 @@
 ### Apps & Websites
 
 - [Josh Manders](https://joshmanders.com)
-- [Audience](https://startaudience.com)
+- [Primcloud](https://primcloud.com)
 - [Matt Stauffer](https://mattstauffer.com)
 - [Miguel Piedrafita](https://miguelpiedrafita.com)
 - [Blogcast](https://blogcast.host)
